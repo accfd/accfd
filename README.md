@@ -24,10 +24,7 @@
 
 ### Ringkasan Profil
 
-- Mahasiswa aktif S1 Departemen Sistem Informasi, Universitas Andalas (Semester 5).
-- Memiliki pengalaman magang di **Bank Nagari Pusat** (Divisi Teknologi dan Digitalisasi) serta menjabat sebagai **Head of Human Resources** di Metro Institute Season 2.
-- Berpengalaman dalam memimpin dan mengembangkan proyek perangkat lunak dari tahap analisis proses bisnis (BPMN), perancangan UI/UX, rekayasa data & machine learning, hingga implementasi full-stack.
-- Terbuka untuk kesempatan magang, peran System Analyst, Technical Project Manager, maupun kolaborasi riset dan pengembangan software.
+Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) dengan fokus pada analisis kebutuhan sistem, perancangan aplikasi, pengelolaan basis data, serta rekayasa machine learning. Memiliki pengalaman magang di Bank Nagari Pusat (Divisi Teknologi dan Digitalisasi) serta berpengalaman memimpin dan mengembangkan berbagai solusi perangkat lunak pada kompetisi teknologi nasional (GEMASTIK XIX, LIDM VII, NASA Space Apps Challenge, Juara 1 Firetech Hackathon) maupun proyek sistem informasi instansi dan akademik. Terbiasa bekerja secara terstruktur, kolaboratif, dan terbuka untuk kesempatan magang, peran System Analyst, Technical Project Manager, maupun Software Engineer.
 
 ---
 
@@ -35,7 +32,7 @@
 
 - **Bahasa Pemrograman & Framework**: Python, PHP (CodeIgniter), Java, JavaScript, TypeScript, Next.js, Express.js, Flutter, HTML5, CSS3, Tailwind CSS.
 - **Data Science & Analytics**: Pandas, Scikit-learn, mlxtend, Natural Language Processing (NLP), Market Basket Analysis (Apriori), Power BI, Exploratory Data Analysis (EDA).
-- **Database & Backend**: MySQL, MariaDB, PostgreSQL, Drizzle ORM, Perancangan Basis Data Relasional, REST API.
+- **Database & Backend**: MySQL, MariaDB, PostgreSQL, Drizzle ORM, Knex.js, Perancangan Basis Data Relasional, REST API.
 - **Sistem Analisis & Pengujian**: BPMN (Analisis Proses Bisnis), Figma (UI/UX), Git/GitHub, Playwright (Automated Testing), Postman.
 
 <br/>
@@ -52,11 +49,13 @@
 | :--- | :--- | :--- | :--- | :---: |
 | **SI-REKTA** | Project Manager & Lead ML Engineer | Sistem rekomendasi dosen pembimbing tugas akhir berbasis pemrosesan bahasa alami (NLP) dengan pendekatan Text Mining dan semantic matching. | Python, NLP, Scikit-Learn, Streamlit | [GitHub](https://github.com/accfd/SI-REKTA) |
 | **UMKita** | Full-Stack Developer | Platform digitalisasi dan integrasi ekosistem UMKM. Meraih **Juara 1 Firetech Hackathon** oleh Neo Telemetri. | Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/accfd/UMKita) |
-| **XASUAI** | Developer & Analyst | Platform analisis dan simulasi pemilihan lokasi pendaratan wahana bulan (Lunar Landing Site Navigator) untuk **NASA Space Apps Challenge 2026**. | Python, Streamlit, NASA Horizons API | [GitHub](https://github.com/accfd/Xasuai) |
+| **Xasuai** | Developer & Analyst | Platform analisis dan simulasi pemilihan lokasi pendaratan wahana bulan (Lunar Landing Site Navigator) untuk **NASA Space Apps Challenge 2026**. | Python, Streamlit, NASA Horizons API | [GitHub](https://github.com/accfd/Xasuai) |
+| **MBGTrust** | Project Manager & System Analyst | Sistem monitoring operasional SPPG untuk BGN dengan analisis risiko, anomaly detection, dan risk scoring berbasis AI (**GEMASTIK XIX 2026**). | Node.js, AI Anomaly Detection, REST API | [GitHub](https://github.com/accfd/MBGTrust) |
+| **SI-FOKUS** | Project Manager & Developer | Platform inovasi teknologi digital kependidikan untuk mendukung ekosistem pembelajaran berdampak (**LIDM VII 2026 Divisi ITDP**). | Node.js, Express.js, Knex.js, MySQL | [GitHub](https://github.com/accfd/SI-FOKUS) |
 | **MyKopsyah** | Full-Stack Developer & Analyst | Sistem manajemen dan distribusi seragam serta buku santri berbasis web untuk Koperasi Syariah FKDT Sumatera Barat. | Next.js, TypeScript, Drizzle ORM | [GitHub](https://github.com/accfd/MyKopsyah) |
 | **MyTeam** | System Analyst & Lead Developer | Aplikasi mobile untuk memfasilitasi pencarian dan pembentukan tim kolaborasi mahasiswa berdasarkan keahlian dan minat. | Flutter, Dart, UI/UX Design | [GitHub](https://github.com/accfd/MyTeam) |
 | **SILAPOR-KU** | Project Manager | Sistem informasi layanan publik dan pengaduan masyarakat Nagari Kambang Utara terintegrasi peta dan basis data relasional. | Next.js, PostgreSQL | [GitHub](https://github.com/accfd/SILAPOR-KU) |
-| **simkk-ahp-topsis** | Project Manager & Lead Developer | Sistem penunjang keputusan pemilihan kelompok keilmuan mahasiswa berbasis Hybrid AHP-TOPSIS dengan 16 kriteria penilaian. | PHP, MySQL, Decision Support System | [GitHub](https://github.com/accfd/simkk-ahp-topsis) |
+| **SIMKK** | Project Manager & Lead Developer | Sistem penunjang keputusan pemilihan kelompok keilmuan mahasiswa berbasis Hybrid AHP-TOPSIS dengan 16 kriteria penilaian. | PHP, MySQL, Decision Support System | [GitHub](https://github.com/accfd/simkk-ahp-topsis) |
 | **facultyware** | Full-Stack Developer | Aplikasi web manajemen pelaporan kerusakan dan perawatan ruangan kampus terintegrasi pengujian otomatis. | Express.js, EJS, Playwright | [GitHub](https://github.com/accfd/facultyware) |
 
 ---
