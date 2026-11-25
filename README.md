@@ -48,7 +48,7 @@ Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) 
 | Proyek | Peran | Deskripsi | Tech Stack | Tautan |
 | :--- | :--- | :--- | :--- | :---: |
 | **SI-REKTA** | Project Manager & Lead ML Engineer | Sistem rekomendasi dosen pembimbing tugas akhir berbasis pemrosesan bahasa alami (NLP) dengan pendekatan Text Mining dan semantic matching. | Python, NLP, Scikit-Learn, Streamlit | [GitHub](https://github.com/accfd/SI-REKTA) |
-| **UMKita** | Full-Stack Developer | Platform digitalisasi dan integrasi ekosistem UMKM. Meraih **Juara 1 Firetech Hackathon** oleh Neo Telemetri. | Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/accfd/UMKita) |
+| **UMKita** | Project Manager & Full-Stack Developer | Platform digitalisasi dan integrasi ekosistem UMKM. Meraih **Juara 1 Firetech Hackathon** oleh Neo Telemetri. | Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/accfd/UMKita) |
 | **Xasuai** | Developer & Analyst | Platform analisis dan simulasi pemilihan lokasi pendaratan wahana bulan (Lunar Landing Site Navigator) untuk **NASA Space Apps Challenge 2026**. | Python, Streamlit, NASA Horizons API | [GitHub](https://github.com/accfd/Xasuai) |
 | **MBGTrust** | Project Manager & System Analyst | Sistem monitoring operasional SPPG untuk BGN dengan analisis risiko, anomaly detection, dan risk scoring berbasis AI (**GEMASTIK XIX 2026**). | Node.js, AI Anomaly Detection, REST API | [GitHub](https://github.com/accfd/MBGTrust) |
 | **SI-FOKUS** | Project Manager & Developer | Platform inovasi teknologi digital kependidikan untuk mendukung ekosistem pembelajaran berdampak (**LIDM VII 2026 Divisi ITDP**). | Node.js, Express.js, Knex.js, MySQL | [GitHub](https://github.com/accfd/SI-FOKUS) |
