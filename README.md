@@ -65,9 +65,13 @@ Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) 
 - **Magang — Divisi Teknologi dan Digitalisasi**, Bank Nagari Pusat *(2026)*  
   Mengembangkan aplikasi web pendukung security awareness serta mempelajari alur kerja dan tata kelola TI di lingkungan perbankan.
 - **Head of Human Resources**, Metro Institute Season 2 *(2026 - Sekarang)*  
-  Merancang rubrik penilaian seleksi (Focus Group Interview) dan mengembangkan sistem rekapitulasi penilaian berbasis spreadsheet otomatis.
+  Merancang skema seleksi wawancara (FGI) dan mengembangkan sistem rekapitulasi penilaian berbasis spreadsheet otomatis.
+- **Koordinator Divisi Sponsorship**, LKMM-TD FTI Universitas Andalas *(2025)*  
+  Memimpin 12 anggota tim, menyusun proposal pendanaan senilai >Rp25.000.000, serta melakukan pitching dan negosiasi kerja sama dengan lebih dari 15 sponsor resmi.
 - **Staff Ahli Dinas Bisnis & Technopreneur**, BEM KM FTI Universitas Andalas *(2025)*  
   Mengelola program edukasi bisnis digital (BISGENIUS) dan merancang webinar kewirausahaan teknologi bekerja sama dengan mitra industri.
+
+> Riwayat organisasi dan kepanitiaan selengkapnya dapat dilihat melalui [LinkedIn](https://www.linkedin.com/in/fuadi-dhiyaulhaq).
 
 ---
 
