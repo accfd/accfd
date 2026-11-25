@@ -30,7 +30,7 @@ Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) 
 
 ### Keahlian Teknis
 
-- **Bahasa Pemrograman & Framework**: Python, PHP (CodeIgniter), Java, JavaScript, TypeScript, Next.js, Express.js, Flutter, HTML5, CSS3, Tailwind CSS.
+- **Bahasa Pemrograman & Framework**: Python, PHP (CodeIgniter), Java, JavaScript, TypeScript, Dart, Next.js, React, Express.js, Flutter, HTML5, CSS3, Tailwind CSS.
 - **Data Science & Analytics**: Pandas, Scikit-learn, mlxtend, Natural Language Processing (NLP), Market Basket Analysis (Apriori), Power BI, Exploratory Data Analysis (EDA).
 - **Database & Backend**: MySQL, MariaDB, PostgreSQL, Drizzle ORM, Knex.js, Perancangan Basis Data Relasional, REST API.
 - **Sistem Analisis & Pengujian**: BPMN (Analisis Proses Bisnis), Figma (UI/UX), Git/GitHub, Playwright (Automated Testing), Postman.
@@ -38,7 +38,7 @@ Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) 
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,java,js,ts,nextjs,express,flutter,postgres,mysql,git,github,figma,postman&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,ts,html,css,tailwind,react,nextjs,nodejs,express,flutter,dart,postgres,mysql,git,github,figma,postman&perline=10&theme=dark" alt="Skills" />
 </p>
 
 ---
