@@ -34,6 +34,7 @@ Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) 
 - **Data Science & Analytics**: Pandas, Scikit-learn, mlxtend, Natural Language Processing (NLP), Market Basket Analysis (Apriori), Power BI, Exploratory Data Analysis (EDA).
 - **Database & Backend**: MySQL, MariaDB, PostgreSQL, Drizzle ORM, Knex.js, Perancangan Basis Data Relasional, REST API.
 - **Sistem Analisis & Pengujian**: BPMN (Analisis Proses Bisnis), Figma (UI/UX), Git/GitHub, Playwright (Automated Testing), Postman.
+- **Produktivitas & Administrasi**: Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Google Sheets, Google Docs.
 
 <br/>
 
@@ -56,6 +57,11 @@ Mahasiswa aktif S1 Departemen Sistem Informasi Universitas Andalas (Semester 5) 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Google Docs" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
