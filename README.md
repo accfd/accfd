@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30,42&height=170&section=header&text=Fuadi%20Dhiyaulhaq&fontSize=38&fontAlignY=38&desc=Information%20Systems%20%7C%20Data%20%26%20Software%20Development&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="./header.svg" width="100%" alt="Header" />
 
   <p align="center">
     Mahasiswa S1 Sistem Informasi Universitas Andalas dengan fokus pada analisis kebutuhan sistem, pengembangan web & mobile, data analytics, serta machine learning.
