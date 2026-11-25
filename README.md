@@ -1,24 +1,20 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vcenter=true&multiline=true&width=650&height=90&lines=Hi%2C+I'm+Fuadi+Dhiyaulhaq+%F0%9F%91%8B;Tech+Enthusiast+%26+Software+Engineer;1st+Place+Winner+Firetech+Hackathon+%F0%9F%8F%86" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30,42&height=170&section=header&text=Fuadi%20Dhiyaulhaq&fontSize=38&fontAlignY=38&desc=Information%20Systems%20%7C%20Data%20%26%20Software%20Development&descAlignY=62&descAlign=50" width="100%" alt="Header" />
 
   <p align="center">
-    <b>A passionate developer dedicated to building impactful digital solutions.</b>
+    Mahasiswa S1 Sistem Informasi Universitas Andalas dengan fokus pada analisis kebutuhan sistem, pengembangan web & mobile, data analytics, serta machine learning.
   </p>
 
-  <!-- Social Badges -->
   <p align="center">
-    <a href="mailto:efdeyeee@gmail.com">
-      <img src="https://img.shields.io/badge/Email-efdeyeee%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:fuadihaq08@gmail.com">
+      <img src="https://img.shields.io/badge/Email-fuadihaq08%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/fuadi-dhiyaulhaq" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-fuadi--dhiyaulhaq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-fuadi--dhiyaulhaq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/fuadi.dhylhq" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@fuadi.dhylhq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-@fuadi.dhylhq-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 
@@ -26,64 +22,60 @@
 
 ---
 
-### 👨‍💻 About Me
+### Ringkasan Profil
 
-- 🏆 **Proud Achievement**: **1st Place Winner** in **Firetech Hackathon by Neo Telemetri** with project [**UMKita**](https://github.com/accfd/UMKita).
-- 🔭 **Current Focus**: Actively developing and maintaining [**SILAPOR-KU**](https://github.com/accfd/SILAPOR-KU) (Sistem Layanan dan Pengaduan Terpadu Nagari) & modern full-stack web applications.
-- 🌱 **Learning & Exploring**: Advanced Next.js, TypeScript architecture, and scalable cloud databases.
-- 🤝 **Open for**: Web development projects, open-source collaborations, and internship opportunities.
-- ⚡ **Fun Fact**: Turning caffeine and logic into functional, user-friendly software!
+- Mahasiswa aktif S1 Departemen Sistem Informasi, Universitas Andalas (Semester 5).
+- Memiliki pengalaman magang di **Bank Nagari Pusat** (Divisi Teknologi dan Digitalisasi) serta menjabat sebagai **Head of Human Resources** di Metro Institute Season 2.
+- Berpengalaman dalam memimpin dan mengembangkan proyek perangkat lunak dari tahap analisis proses bisnis (BPMN), perancangan UI/UX, rekayasa data & machine learning, hingga implementasi full-stack.
+- Terbuka untuk kesempatan magang, peran System Analyst, Technical Project Manager, maupun kolaborasi riset dan pengembangan software.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Keahlian Teknis
 
-#### **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,cpp,html,css&theme=dark" alt="Languages" />
-</p>
+- **Bahasa Pemrograman & Framework**: Python, PHP (CodeIgniter), Java, JavaScript, TypeScript, Next.js, Express.js, Flutter, HTML5, CSS3, Tailwind CSS.
+- **Data Science & Analytics**: Pandas, Scikit-learn, mlxtend, Natural Language Processing (NLP), Market Basket Analysis (Apriori), Power BI, Exploratory Data Analysis (EDA).
+- **Database & Backend**: MySQL, MariaDB, PostgreSQL, Drizzle ORM, Perancangan Basis Data Relasional, REST API.
+- **Sistem Analisis & Pengujian**: BPMN (Analisis Proses Bisnis), Figma (UI/UX), Git/GitHub, Playwright (Automated Testing), Postman.
 
-#### **Frontend & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend" />
-</p>
+<br/>
 
-#### **Backend & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql&theme=dark" alt="Backend & DB" />
-</p>
-
-#### **Tools & Design**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,ts,nextjs,express,flutter,postgres,mysql,git,github,figma,postman&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Proyek Pilihan
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🥇 **UMKita** | **1st Place Winner Firetech Hackathon**. Solusi inovatif pemberdayaan dan digitalisasi UMKM. | `Next.js` `TypeScript` `Tailwind` | [**Repo**](https://github.com/accfd/UMKita) |
-| 🏛️ **SILAPOR-KU** | Sistem Informasi Layanan dan Pengaduan Masyarakat Nagari Kambang Utara terintegrasi peta & cetak kedinasan. | `Next.js` `TypeScript` `PostgreSQL` | [**Repo**](https://github.com/accfd/SILAPOR-KU) |
-
----
-
-### 📊 GitHub Stats & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=accfd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accfd&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=accfd&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
-</div>
+| Proyek | Peran | Deskripsi | Tech Stack | Tautan |
+| :--- | :--- | :--- | :--- | :---: |
+| **SI-REKTA** | Project Manager & Lead ML Engineer | Sistem rekomendasi dosen pembimbing tugas akhir berbasis pemrosesan bahasa alami (NLP) dengan pendekatan Text Mining dan semantic matching. | Python, NLP, Scikit-Learn, Streamlit | [GitHub](https://github.com/accfd/SI-REKTA) |
+| **UMKita** | Full-Stack Developer | Platform digitalisasi dan integrasi ekosistem UMKM. Meraih **Juara 1 Firetech Hackathon** oleh Neo Telemetri. | Next.js, TypeScript, Tailwind CSS | [GitHub](https://github.com/accfd/UMKita) |
+| **XASUAI** | Developer & Analyst | Platform analisis dan simulasi pemilihan lokasi pendaratan wahana bulan (Lunar Landing Site Navigator) untuk **NASA Space Apps Challenge 2026**. | Python, Streamlit, NASA Horizons API | [GitHub](https://github.com/accfd/Xasuai) |
+| **MyKopsyah** | Full-Stack Developer & Analyst | Sistem manajemen dan distribusi seragam serta buku santri berbasis web untuk Koperasi Syariah FKDT Sumatera Barat. | Next.js, TypeScript, Drizzle ORM | [GitHub](https://github.com/accfd/MyKopsyah) |
+| **MyTeam** | System Analyst & Lead Developer | Aplikasi mobile untuk memfasilitasi pencarian dan pembentukan tim kolaborasi mahasiswa berdasarkan keahlian dan minat. | Flutter, Dart, UI/UX Design | [GitHub](https://github.com/accfd/MyTeam) |
+| **SILAPOR-KU** | Project Manager | Sistem informasi layanan publik dan pengaduan masyarakat Nagari Kambang Utara terintegrasi peta dan basis data relasional. | Next.js, PostgreSQL | [GitHub](https://github.com/accfd/SILAPOR-KU) |
+| **simkk-ahp-topsis** | Project Manager & Lead Developer | Sistem penunjang keputusan pemilihan kelompok keilmuan mahasiswa berbasis Hybrid AHP-TOPSIS dengan 16 kriteria penilaian. | PHP, MySQL, Decision Support System | [GitHub](https://github.com/accfd/simkk-ahp-topsis) |
+| **facultyware** | Full-Stack Developer | Aplikasi web manajemen pelaporan kerusakan dan perawatan ruangan kampus terintegrasi pengujian otomatis. | Express.js, EJS, Playwright | [GitHub](https://github.com/accfd/facultyware) |
 
 ---
 
-### 💬 Daily Developer Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+### Pengalaman Terpilih
+
+- **Magang — Divisi Teknologi dan Digitalisasi**, Bank Nagari Pusat *(2026)*  
+  Mengembangkan aplikasi web pendukung security awareness serta mempelajari alur kerja dan tata kelola TI di lingkungan perbankan.
+- **Head of Human Resources**, Metro Institute Season 2 *(2026 - Sekarang)*  
+  Merancang rubrik penilaian seleksi (Focus Group Interview) dan mengembangkan sistem rekapitulasi penilaian berbasis spreadsheet otomatis.
+- **Staff Ahli Dinas Bisnis & Technopreneur**, BEM KM FTI Universitas Andalas *(2025)*  
+  Mengelola program edukasi bisnis digital (BISGENIUS) dan merancang webinar kewirausahaan teknologi bekerja sama dengan mitra industri.
+
+---
+
+### Aktivitas Kontribusi
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/accfd/accfd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/accfd/accfd/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Activity" src="https://raw.githubusercontent.com/accfd/accfd/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
